@@ -34,5 +34,3 @@ if submitted:
     prediction = model.predict(input_df)[0]
 
     st.success(f"🎯 Prediksi Performance Index Siswa: **{prediction:.2f}**")
-https://github.com/jasminsabhiiraa/jasmin-mpml/blob/main/app.py
-

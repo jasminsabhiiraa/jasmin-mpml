@@ -35,3 +35,4 @@ if submitted:
 
     st.success(f"🎯 Prediksi Performance Index Siswa: **{prediction:.2f}**")
 https://github.com/jasminsabhiiraa/jasmin-mpml/blob/main/app.py
+
